@@ -1,4 +1,4 @@
-const BASE_IMG_PATH = "/assets/img/";
+const BASE_IMG_PATH = "assets/img/";
 $(() => {
   $($("#root")).prepend($("<div>").addClass("container"));
 });
